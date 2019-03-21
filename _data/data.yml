@@ -47,6 +47,10 @@ sidebar:
       - item: Photography
         link: chittaara.com
 
+      - item: Coin Collection
+
+      - item: Kannada Literature 
+
 career-profile:
     title: Quality Assurance Engineer
     summary: |
@@ -82,48 +86,32 @@ education:
           - Bullet point
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Senior Engineer
+      time: May 2017 to Present
+      company: FIS Global Solutions, Bengaluru
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        - Working as a Senior Test Engineer, Involved in the testing of web application for stock market price
+        validation.
+        - Worked with Microsoft Technologies - TFS, Microsoft Test Manager, SQL.
+        - Received Kudos Award for the performance shown.
 
           - Bullet point
-          - Bullet point
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+
+    - role: Software Engineer
+      time: March 2014 to March 2017
+      company: Capgemini - Bengaluru, Karnataka
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        - Involved in the testing of the Loans application for the Core Banking Replacement project for BTMU.
+        - Involved in testing of BCFW Credit Clock Release based on Pega Application for RBC. Testing involved
+          in the verification of Notifications for various stages of the application.
+        - Involved in Testing of the Document Disassembly System for RBC. Worked in Agile Scrum Methodology.
 
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Apprentice
+      time: September 2013 to November 2013
+      company: Electronics Test and Development Centre - Bangalore, Karnataka
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        - Testing and certification of various electronic Devices as per the International and Indian Standards.
 
 projects:
     title: Projects
@@ -177,23 +165,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Functional Testing
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Javascript
+        level: 50%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: SQL
         level: 60%
 
+      - name: Banking Domain Knowledge
+        level: 70%
+
+      - name: Trading Domain Knowledge
+        level: 70%
+
+      - name: HP ALM
+        level: 80%
+
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Adarsha
