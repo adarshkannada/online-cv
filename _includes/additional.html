@@ -9,10 +9,10 @@
     </span>
     {{ additional.title }}
 </h2>
-  
-    {% if additional.intro %}
+
+  {% if additional.intro %}
   <div class="intro">
-    {{ additional.intro | markdownify }}
+      <p>{{ additional.intro }}</p>
   </div><!--//intro-->
   {% endif %}
 
