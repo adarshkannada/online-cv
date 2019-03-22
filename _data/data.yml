@@ -63,27 +63,11 @@ education:
       university: Dr. AIT, VTU
       time: 2009 - 2013
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
 
     - degree: PUC in PCMCs
       university: BHS First Grade College
       time: 2007 - 2009
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
 
 experiences:
     - role: Senior Engineer
@@ -94,9 +78,6 @@ experiences:
         validation.
         - Worked with Microsoft Technologies - TFS, Microsoft Test Manager, SQL.
         - Received Kudos Award for the performance shown.
-
-          - Bullet point
-
 
     - role: Software Engineer
       time: March 2014 to March 2017
