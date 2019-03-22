@@ -2,7 +2,15 @@
 {% if additional %}
 <section class="section publications-section">
 
-  {% if additional.intro %}
+<h2 class="section-title">
+    <span class="fa-stack fa-xs">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-file-alt fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ additional.title }}
+</h2>
+  
+    {% if additional.intro %}
   <div class="intro">
     {{ additional.intro | markdownify }}
   </div><!--//intro-->
