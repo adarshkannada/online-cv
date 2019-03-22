@@ -1,0 +1,12 @@
+{% assign additional = site.data.data.Additional-Information %}
+{% if additional %}
+<section class="section publications-section">
+
+  {% if additional.intro %}
+  <div class="intro">
+    {{ additional.intro | markdownify }}
+  </div><!--//intro-->
+  {% endif %}
+
+</section><!--//section-->
+{% endif %}
