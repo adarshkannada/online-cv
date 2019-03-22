@@ -161,7 +161,8 @@ skills:
         level: 70%
 
 Additional-Information:
-      Also involved in Alpha and Beta testing of Android apps and Android custom roms.
+      - title: Additional-Information
+      - intro: Also involved in Alpha and Beta testing of Android apps and Android custom roms.
 
 footer: >
     Adarsha
