@@ -120,19 +120,19 @@ projects:
 
     assignments:
       - title: Loan Application
-        link: "#hook"
+        link: ""
         tagline: "A Core Banking web application to handle the process of creating Loans for a Bank."
 
       - title: BCFW Credit Clock Release
-        link: "#hook"
+        link: ""
         tagline: "A feature release for a Pega based application where changes of each process stages were notified to the user through system notifications."
 
       - title: Document Disassembly System
-        link: "#hook"
+        link: ""
         tagline: "An Image processing system for the Bank to scan, read and process various documents the Bank receives from the customers."
 
       - title: Pricing Services Portal
-        link: "#hook"
+        link: ""
         tagline: "A Web Application involved in validating the prices received from the Stock Exchanges for various securities
         and to provide analysis of Securities and Funds which would help the customer to invest better."
 
