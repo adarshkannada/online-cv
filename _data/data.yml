@@ -124,37 +124,17 @@ projects:
         tagline: "A Core Banking web application to handle the process of creating Loans for a Bank."
 
       - title: BCFW Credit Clock Release
-        link: "#"
+        link: "#hook"
         tagline: "A feature release for a Pega based application where changes of each process stages were notified to the user through system notifications."
 
       - title: Document Disassembly System
-        link: "#"
+        link: "#hook"
         tagline: "An Image processing system for the Bank to scan, read and process various documents the Bank receives from the customers."
 
       - title: Pricing Services Portal
-        link: "#"
+        link: "#hook"
         tagline: "A Web Application involved in validating the prices received from the Stock Exchanges for various securities
         and to provide analysis of Securities and Funds which would help the customer to invest better."
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
@@ -177,6 +157,15 @@ skills:
 
       - name: HP ALM
         level: 80%
+
+      - name: TFS
+        level: 80% 
+
+      - name: Mobile App Testing
+        level: 70%
+
+Additional Information:
+      Also involved in Alpha and Beta testing of Android apps and Android custom roms.
 
 footer: >
     Adarsha
