@@ -54,9 +54,8 @@ sidebar:
 career-profile:
     title: Quality Assurance Engineer
     summary: |
-       I have 5 years of experience as a QA Engineer. I have extensively worked
-       in applications for the Banking and Financial Sectors. I have worked on 
-       Applications for Core Banking, Document Workflow Solutions and also for Stock Market Sectors.
+       6 Years of Experience as a Quality Assurance Engineer. Have extensive experience in testing Web Applications for Banking
+       and Finance Sectors. I Always try to stay updated with knowledge through learning and collaboration.
 
 education:
     - degree: BE in Electronics and Communication
@@ -74,10 +73,15 @@ experiences:
       time: May 2017 to Present
       company: FIS Global Solutions, Bengaluru
       details: |
-        - Working as a Senior Test Engineer, Involved in the testing of web application for stock market price
-        validation.
-        - Worked with Microsoft Technologies - TFS, Microsoft Test Manager, SQL.
-        - Received Kudos Award for the performance shown.
+        - Involved in the testing of web application for stock market price validation.
+        - Worked in Automating Test Cases using SAFAL tool, a keyword driven Test Automation Framework.
+        - Involved in Database Testing using SQL.
+        - Created Wiki Documents for many critical functionalities of the application that helped in improving the knowledge
+        repository.
+        - Created reference documents to verify the Test Results of the application that helped to easily verify the output of the
+        complex formulas.
+        - Improved Test Coverage using the Static Analysis during Testing.
+        - Worked with Microsoft Technologies - TFS, Microsoft Test Manager.
 
     - role: Software Engineer
       time: March 2014 to March 2017
@@ -124,7 +128,7 @@ skills:
         level: 50%
 
       - name: SQL
-        level: 60%
+        level: 80%
 
       - name: Banking Domain Knowledge
         level: 70%
@@ -140,6 +144,9 @@ skills:
 
       - name: Mobile App Testing
         level: 70%
+        
+      - name: Automation Testing
+        level: 50%
 
 Additional-Information:
     title: Additional-Information
