@@ -152,11 +152,10 @@ skills:
         level: 50%
 
 Additional-Information:
-    title: Additional-Information
-    intro: Also involved in Alpha and Beta testing of Android apps and Android custom roms.
     
-    title: Certifications
+    title: Certification
     intro: ISTQB-Foundation Level certified.
+    intro: Also involved in Alpha and Beta testing of Android apps and Android custom roms.
 
 footer: >
     Adarsha
