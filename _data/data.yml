@@ -146,7 +146,7 @@ skills:
         level: 80% 
 
       - name: Mobile App Testing
-        level: 70%
+        level: 50%
         
       - name: Automation Testing
         level: 50%
@@ -154,6 +154,9 @@ skills:
 Additional-Information:
     title: Additional-Information
     intro: Also involved in Alpha and Beta testing of Android apps and Android custom roms.
+    
+    title: Certifications
+    intro: ISTQB-Foundation Level certified.
 
 footer: >
     Adarsha
