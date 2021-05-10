@@ -127,16 +127,13 @@ skills:
       - name: Functional Testing
         level: 98%
 
-      - name: Javascript
-        level: 50%
-
       - name: SQL
         level: 80%
 
       - name: Banking Domain Knowledge
-        level: 70%
+        level: 50%
 
-      - name: Stock Market Domain Knowledge
+      - name: Capital Market Domain Knowledge
         level: 60%
 
       - name: HP ALM
@@ -144,12 +141,12 @@ skills:
 
       - name: TFS
         level: 80% 
-
-      - name: Mobile App Testing
-        level: 50%
         
-      - name: Automation Testing
-        level: 50%
+      - name: Java
+        level: 40%
+        
+      - name: Selenium
+        level: 40%
 
 Additional-Information:
     
